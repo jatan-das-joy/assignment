@@ -1,0 +1,12 @@
+.a2i {
+	padding: 5px 35px;
+}
+.carousel-indicators button{
+    margin: 35px 7px;
+    width: 30px;
+    height: 4px;
+    outline: none;
+    border: none;
+    background: #fff;
+
+}
